@@ -2,6 +2,8 @@
 #include <vector>
 #include <cassert>
 #include <cstdint>
+#include <cstdlib>
+using namespace std;
 
 class Executor {
 public:
@@ -108,11 +110,11 @@ void testExecutor() {
     car.getStatus(x, y, heading);
     assert(x == 6 && y == 2 && heading == 'S');
 
-    std::cout << "All passed!\n";
+    cout << "All passed!\n";
 }
 
 int main() {
     testExecutor();
+    system("pause");
     return 0;
-    ;
 }
