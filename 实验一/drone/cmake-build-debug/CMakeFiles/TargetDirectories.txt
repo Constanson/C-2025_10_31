@@ -1,3 +1,0 @@
-C:/Users/Constanson/CLionProjects/drone/cmake-build-debug/CMakeFiles/drone.dir
-C:/Users/Constanson/CLionProjects/drone/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Constanson/CLionProjects/drone/cmake-build-debug/CMakeFiles/rebuild_cache.dir

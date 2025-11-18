@@ -1,9 +1,0 @@
-# ninja log v6
-4	488	7836006543361665	CMakeFiles/drone.dir/main.cpp.obj	e557424bf920deec
-513	779	7836006548435627	drone.exe	a34fed3aaf83cdeb
-10	929	7836007797117772	CMakeFiles/drone.dir/main.cpp.obj	e557424bf920deec
-931	1206	7836007806323322	drone.exe	a34fed3aaf83cdeb
-6	555	7836016464269818	CMakeFiles/drone.dir/main.cpp.obj	e557424bf920deec
-557	826	7836016469784304	drone.exe	a34fed3aaf83cdeb
-37	2272	7840501796111092	CMakeFiles/drone.dir/main.cpp.obj	e557424bf920deec
-2273	5037	7840501818462560	drone.exe	a34fed3aaf83cdeb
