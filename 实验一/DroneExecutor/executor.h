@@ -79,7 +79,7 @@ private:
     }
 
     void doMove() {
-        moveBackward();
+        moveForward();
     }
 
 
